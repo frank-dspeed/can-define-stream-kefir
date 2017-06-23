@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "can-compute": "^3.1.0-pre.9",
-    "can-define": "^1.2.0-pre.4",
+    "can-define": "^1.2.3",
     "can-define-stream": "^0.2.0-pre.0",
     "can-observation": "^3.2.0-pre.11",
     "can-stream-kefir": "^0.3.0-pre.0",

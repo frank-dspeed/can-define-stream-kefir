@@ -33,7 +33,7 @@
     "npmAlgorithm": "flat"
   },
   "dependencies": {
-    "can-compute": "^3.1.0-pre.9",
+    "can-compute": "^3.3.1",
     "can-define": "^1.2.0-pre.4",
     "can-define-stream": "^0.2.0-pre.0",
     "can-observation": "^3.2.0-pre.11",
